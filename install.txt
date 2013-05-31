@@ -1,0 +1,3 @@
+easy_install pyzmq==2.2.0.1
+easy_install greenlet
+easy_install zerorpc
